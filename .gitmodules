@@ -1,0 +1,9 @@
+[submodule "DevCamp"]
+	path = DevCamp
+	url = https://github.com/Azure-Readiness/DevCamp
+[submodule "CloudDataCamp"]
+	path = CloudDataCamp
+	url = https://github.com/Azure-Readiness/CloudDataCamp
+[submodule "AppServiceCamp"]
+	path = AppServiceCamp
+	url = https://github.com/Azure-Readiness/AppServiceCamp
